@@ -79,6 +79,7 @@ main {
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     background-color: rgb(156, 44, 0);
+    color:white;
 }
 
 .container {
@@ -92,4 +93,14 @@ main {
       margin-top: 1; 
       margin-bottom: 0;
       font-weight: bold;
+}
+
+a{
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover{
+    color:white;
 }
