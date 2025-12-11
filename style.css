@@ -1,6 +1,6 @@
 body{
     background-color: deepskyblue;
-    background-image: url(bg.jpg);
+    background-image: url(images/bg.jpg);
     background-size: cover;
     font-family: helvetica;
     font-family: 'Times New Roman', Times, serif; 
@@ -87,12 +87,12 @@ main {
 }
 
 #cim{
-      text-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-      font-size: 75px; 
-      font-weight: normal; 
-      margin-top: 1; 
-      margin-bottom: 0;
-      font-weight: bold;
+    text-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    font-size: 75px; 
+    font-weight: normal; 
+    margin-top: 1; 
+    margin-bottom: 0;
+    font-weight: bold;
 }
 
 a{
