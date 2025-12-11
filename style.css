@@ -1,6 +1,6 @@
 body{
     background-color: deepskyblue;
-    background-image: url(haven.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     font-family: helvetica;
     font-family: 'Times New Roman', Times, serif; 
@@ -74,9 +74,6 @@ main {
     width: 30%;
     border-radius: 5px;
     background-color: rgb(124, 35, 0);
-     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
 }
 
 .card:hover {
